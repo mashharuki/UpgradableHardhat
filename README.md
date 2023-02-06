@@ -21,3 +21,11 @@ npm i -D @openzeppelin/hardhat-upgrades
 ```bash
 npm run test
 ```
+
+## upgradeするための準備
+
+`backend/scripts/upgrade.ts`ファイルの2行目にアップグレードしたいコントラクトのアドレスをあらかじめ設定しておくこと。
+
+```ts
+const PROXY_CONTRACT_ID = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
+```
