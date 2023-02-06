@@ -1,0 +1,2 @@
+# UpgradableHardhat
+hardhatを利用してUpgradableなスマートコントラクトを開発するリポジトリになります。
