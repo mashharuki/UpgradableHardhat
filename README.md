@@ -29,3 +29,13 @@ npm run test
 ```ts
 const PROXY_CONTRACT_ID = "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0";
 ```
+
+### 参考文献
+1. [NOS faucet](https://newbitcoincity.com/topup?tab=faucet&address=)
+2. [Fully on-chain Tic-Tac-Toe](https://docs.trustless.computer/contracts-games/fully-on-chain-tic-tac-toe)
+3. [Layer 2: NOS](https://docs.trustless.computer/trustless-computer/layer-2-nos)
+4. [endpoints ingos](https://docs.trustless.computer/trustless-computer/helpful-endpoints)
+5. [builders info](https://newbitcoincity.com/builder)
+6. [TC gas station](https://tcgasstation.com/)
+7. [BlockExplorer](https://explorer.l2.trustless.computer/)
+8. []()
